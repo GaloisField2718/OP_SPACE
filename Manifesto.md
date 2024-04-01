@@ -14,11 +14,23 @@ L'OP_SPACE est un espace libre de discussion et n'endosse aucune responsabilité
 L'OP_SPACE ne fournit aucun conseil d'investissement. 
 Les sujets discutés dans l'OP_SPACE sont décidés par galoisfield.sats et sont toujours reliés à un élément technique précis. 
 
+Les directions et valeurs de l'OP_SPACE sont : 
+
+- Expliquer la technique et le sens derrière les scripts Bitcoin ;
+- Comprendre les projets construits sur ces scripts ; 
+- Donner la parole aux développeurs et aux dégens dans un espace communs ; 
+- Faire se rencontrer des acteurs d'horizons différents guidés par une passion commune : Bitcoin ;
+- S'adresser à un public déjà formé et informé sur Bitcoin et la technologie Blockchain ;
+- Permettre à chacun de se faire sa propre opinion en donnant des outils permettant la compréhension des enjeux techniques derrières des projets sur Bitcoin ;
+- Répondre aux questions du public afin de permettre la meilleure compréhension possibles des sujets évoqués ;
+- Projet expérimental pouvant être amené à évoluer et changer de directions. Si ses valeurs et directions sont amenés à changer drastiquement le projet devra changer d'intitulés ; 
+- L'OP_SPACE ne saura en aucun cas endosser d'autres quelconques responsabilités et valeurs que celles citées précédemments.
+
 Bitcoin est une technologie nouvelle reposant sur l'informatique, ainsi que sur l'humain. 
 Le but de l'OP_SPACE est de traduire cela dans un espace de discussion hébergé actuellement sur Twitter (X) mais pouvant évoluer. 
 Les évolutions seront attachées en tant qu'enfants à cette inscription.
 
-L'OP_SPACE est en français. Si un OP_SPACE doit avoir lieu en anglais il sera référencé par `OP_SPACE_en`.
+L'OP_SPACE est en français. S'il doit avoir lieu en anglais il sera référencé par `OP_SPACE_en`.
 
 Pour toute demande spécifique concernant l'OP_SPACE veuillez contacter galoisfield.sats par mail [📨](@mailto:galoisfield2718@gmail.com) ou par Twitter (X) [@Blockcryptology](https://twitter.com/Blockcryptology).
 
