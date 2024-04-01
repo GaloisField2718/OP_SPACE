@@ -33,7 +33,7 @@ Les évolutions seront attachées en tant qu'enfants à cette inscription.
 
 L'OP_SPACE est en français. S'il doit avoir lieu en anglais il sera référencé par `OP_SPACE_en`.
 
-Pour toute demande spécifique concernant l'OP_SPACE veuillez contacter galoisfield.sats par [📨 mail](@mailto:galoisfield2718@gmail.com) ou par Twitter (X) [@Blockcryptology](https://twitter.com/Blockcryptology).
+Pour toute demande spécifique concernant l'OP_SPACE veuillez contacter galoisfield.sats par [📨 mail](mailto:galoisfield2718@gmail.com) ou par Twitter (X) [@Blockcryptology](https://twitter.com/Blockcryptology).
 
 GaloisField un dégen techos passionné 🧡 
 
