@@ -15,7 +15,6 @@ Les directions et valeurs de l'OP_SPACE sont :
 
 - Expliquer la technique et le sens derrière les scripts Bitcoin ;
 - Comprendre les projets construits sur ces scripts ; 
-- Traiter un sujet précis lors de chaque space ;
 - Donner la parole aux développeurs et aux dégens dans un espace communs ; 
 - Faire se rencontrer des acteurs d'horizons différents guidés par une passion commune : Bitcoin ;
 - S'adresser à un public déjà formé et informé sur Bitcoin et la technologie Blockchain ;
