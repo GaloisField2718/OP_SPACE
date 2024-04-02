@@ -1,0 +1,80 @@
+[
+  {
+    "inscription": "a4d4b3bc4df0bf656b547d1f2a1ed6a97e76c30fc108b036df7f88ff19ca0d10i0",
+    "location": "a4d4b3bc4df0bf656b547d1f2a1ed6a97e76c30fc108b036df7f88ff19ca0d10:0:0",
+    "explorer": "https://ordinals.com/inscription/a4d4b3bc4df0bf656b547d1f2a1ed6a97e76c30fc108b036df7f88ff19ca0d10i0",
+    "postage": 10000
+  },
+  {
+    "inscription": "036d4de697de715d96d82922db56dfea2e58d2ec66ab9438c472d6dd25ea0636i0",
+    "location": "036d4de697de715d96d82922db56dfea2e58d2ec66ab9438c472d6dd25ea0636:0:0",
+    "explorer": "https://ordinals.com/inscription/036d4de697de715d96d82922db56dfea2e58d2ec66ab9438c472d6dd25ea0636i0",
+    "postage": 10000
+  },
+  {
+    "inscription": "9e0285db96450c9f9c0d90b659a881798e0195cb51c6ce3b2fb7f431ca4c4142i0",
+    "location": "9e0285db96450c9f9c0d90b659a881798e0195cb51c6ce3b2fb7f431ca4c4142:0:0",
+    "explorer": "https://ordinals.com/inscription/9e0285db96450c9f9c0d90b659a881798e0195cb51c6ce3b2fb7f431ca4c4142i0",
+    "postage": 10000
+  },
+  {
+    "inscription": "ff5957c710022838a9d2975ed6b133a82f52711cf77f6d4d6775f665d45a2157i0",
+    "location": "ff5957c710022838a9d2975ed6b133a82f52711cf77f6d4d6775f665d45a2157:0:0",
+    "explorer": "https://ordinals.com/inscription/ff5957c710022838a9d2975ed6b133a82f52711cf77f6d4d6775f665d45a2157i0",
+    "postage": 10000
+  },
+  {
+    "inscription": "95354ce38f4375328613d078f8fc127e49b1fb6e7e153b12d968dba8941c2c63i0",
+    "location": "95354ce38f4375328613d078f8fc127e49b1fb6e7e153b12d968dba8941c2c63:0:0",
+    "explorer": "https://ordinals.com/inscription/95354ce38f4375328613d078f8fc127e49b1fb6e7e153b12d968dba8941c2c63i0",
+    "postage": 10000
+  },
+  {
+    "inscription": "51375f73fb1214e40e7a61b0f058b73a4d5c30609e2d738e07130463e81d9e6fi0",
+    "location": "51375f73fb1214e40e7a61b0f058b73a4d5c30609e2d738e07130463e81d9e6f:0:0",
+    "explorer": "https://ordinals.com/inscription/51375f73fb1214e40e7a61b0f058b73a4d5c30609e2d738e07130463e81d9e6fi0",
+    "postage": 10000
+  },
+  {
+    "inscription": "e7c4acad91c2f5901b5d4fd59bb283182e650b5a5fe85aa84d86db057331a173i0",
+    "location": "e7c4acad91c2f5901b5d4fd59bb283182e650b5a5fe85aa84d86db057331a173:0:0",
+    "explorer": "https://ordinals.com/inscription/e7c4acad91c2f5901b5d4fd59bb283182e650b5a5fe85aa84d86db057331a173i0",
+    "postage": 500
+  },
+  {
+    "inscription": "d9b8bced0e463bbdbbce5c0df5d96271322402acf3169d1c2a6a9e3d6549447ai0",
+    "location": "d9b8bced0e463bbdbbce5c0df5d96271322402acf3169d1c2a6a9e3d6549447a:0:0",
+    "explorer": "https://ordinals.com/inscription/d9b8bced0e463bbdbbce5c0df5d96271322402acf3169d1c2a6a9e3d6549447ai0",
+    "postage": 10000
+  },
+  {
+    "inscription": "ad3dafb5f004d1663a22a8e37642d323ca9d6e59fb255f9832e86e94dcc39188i0",
+    "location": "ad3dafb5f004d1663a22a8e37642d323ca9d6e59fb255f9832e86e94dcc39188:0:0",
+    "explorer": "https://ordinals.com/inscription/ad3dafb5f004d1663a22a8e37642d323ca9d6e59fb255f9832e86e94dcc39188i0",
+    "postage": 10000
+  },
+  {
+    "inscription": "ec9284ddd547d9b6cd7191f3c14245e4f5d1d71b68d27efd809ce0027e9581c7i0",
+    "location": "cde609a4550aeaa008ee9f8eb955af31b146dadfa7b60fe693a7709432922489:0:0",
+    "explorer": "https://ordinals.com/inscription/ec9284ddd547d9b6cd7191f3c14245e4f5d1d71b68d27efd809ce0027e9581c7i0",
+    "postage": 546
+  },
+  {
+    "inscription": "adde1412a5bf3619af027213065346c205b8b5781c2bd01aac0b714d5fd8fd9bi0",
+    "location": "adde1412a5bf3619af027213065346c205b8b5781c2bd01aac0b714d5fd8fd9b:0:0",
+    "explorer": "https://ordinals.com/inscription/adde1412a5bf3619af027213065346c205b8b5781c2bd01aac0b714d5fd8fd9bi0",
+    "postage": 10000
+  },
+  {
+    "inscription": "7bb5a6baeaf961c58b6fef00ab91a11bbd766d8a3b36bea1b3676420afce0fe2i0",
+    "location": "7bb5a6baeaf961c58b6fef00ab91a11bbd766d8a3b36bea1b3676420afce0fe2:0:0",
+    "explorer": "https://ordinals.com/inscription/7bb5a6baeaf961c58b6fef00ab91a11bbd766d8a3b36bea1b3676420afce0fe2i0",
+    "postage": 10000
+  },
+  {
+    "inscription": "4131044639d7c0b7eebca917bc57feda78ec78c762268431e63e22c6e632befbi0",
+    "location": "4131044639d7c0b7eebca917bc57feda78ec78c762268431e63e22c6e632befb:0:0",
+    "explorer": "https://ordinals.com/inscription/4131044639d7c0b7eebca917bc57feda78ec78c762268431e63e22c6e632befbi0",
+    "postage": 10000
+  }
+]
