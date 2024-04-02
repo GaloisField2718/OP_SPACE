@@ -1,3 +1,2 @@
 .DS_Store
-inscribe_command.sh
-./test
+.gitignore
