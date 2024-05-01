@@ -5,10 +5,13 @@ Ce dossier contient les fichiers reliés au projet `OP_SPACE`.
 Le manifesto du projet est disponible [ici](Manifesto.md). Chaque élément de ce dossier seront inscrit sur Bitcoin via le protocole **Ordinals**. L'inscription parent est le [Manifesto](Manifesto.md).
 Les inscriptions enfants sont tous les contenus rattachés au projet.
 
+Le compte [OP_SPACE (X)](https://twitter.com/op_space28722) officiel
 
 ## Liens émissions
 
 - [RUNES ?!? 😱 On DÉGROSSIT !!](https://x.com/Blockcryptology/status/1770147012069007811?s=20)
+- [OP_SPACE 002: OP_CAT dégens & covenants](https://x.com/Blockcryptology/status/1777742641498603698)
+- [OP_SPACE 003: OP Metaprotocol Ordinals. Cbrc20, Moto](https://x.com/Blockcryptology/status/1785353451347587253)
 
 ## Inscriptions
 
