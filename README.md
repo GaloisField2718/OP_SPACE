@@ -12,6 +12,8 @@ Le compte [OP_SPACE (X)](https://twitter.com/op_space28722) officiel
 - [RUNES ?!? 😱 On DÉGROSSIT !!](https://x.com/Blockcryptology/status/1770147012069007811?s=20)
 - [OP_SPACE 002: OP_CAT dégens & covenants](https://x.com/Blockcryptology/status/1777742641498603698)
 - [OP_SPACE 003: OP Metaprotocol Ordinals. Cbrc20, Moto](https://x.com/Blockcryptology/status/1785353451347587253)
+- [OP_SPACE 004: Atomicals Space, #OrdinalsAreDead #enveloppe](https://x.com/op_space28722/status/1790427980516221212?s=46)
+- [OP_SPACE 005: Dogecoin, doginals, DRC-20, Dunes & alt.](https://x.com/op_space28722/status/1795502800266264902?s=46)
 
 ## Inscriptions
 
