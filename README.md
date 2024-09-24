@@ -15,6 +15,7 @@ Le compte [OP_SPACE (X)](https://twitter.com/op_space28722) officiel
 - [OP_SPACE 004: Atomicals Space, #OrdinalsAreDead #enveloppe](https://x.com/op_space28722/status/1790427980516221212?s=46)
 - [OP_SPACE 005: Dogecoin, doginals, DRC-20, Dunes & alt.](https://x.com/op_space28722/status/1795502800266264902?s=46)
 - [OP_SPACE 006: Tap Protocol -> TOUT !](https://x.com/i/spaces/1lPJqbbnzwmxb)
+- [#OP_SPACE007: OP_CAT et Zero-Knowledge proof sur #Bitcoin avec @dimahledba](https://x.com/op_space_btc/status/1838594290378739970?s=46)
 
 ## Inscriptions
 
