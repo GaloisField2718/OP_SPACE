@@ -17,6 +17,9 @@ Le compte [OP_SPACE (X)](https://twitter.com/op_space28722) officiel
 - [OP_SPACE 006: Tap Protocol -> TOUT !](https://x.com/i/spaces/1lPJqbbnzwmxb)
 - [#OP_SPACE007: OP_CAT et Zero-Knowledge proof sur #Bitcoin avec @dimahledba](https://x.com/op_space_btc/status/1838594290378739970?s=46)
 
+- [#OP_SPACE009: Digital Matter Theory avec @dmt_natdiamonds & alt.](https://x.com/i/spaces/1ynJODVqeNExR)
+- [#OP_SPACE010: #Gaming sur #Bitcoin. @GKingdom_io](https://x.com/op_space_btc/status/1861472746435223885)
+
 ## Inscriptions
 
 - [Manifesto](https://ordinals.com/inscription/2914e780bb7272612b97517af3dfe8fc604b6f8661645eedad226eef181df06bi0)
